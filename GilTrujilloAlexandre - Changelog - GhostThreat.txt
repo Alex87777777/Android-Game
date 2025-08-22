@@ -1,0 +1,101 @@
+-18 de enero
+Creé el proyecto, hice una clase principal y creé la PlayScreen
+
+-19 de enero
+Creé el HUD de la clase PlayScreen
+
+-20 de enero
+Hice un mapa provisional en Tiled
+
+-22 de enero
+Renderizo el mapa en la PlayScreen y creo la clase B2WorldCreator
+
+-25 de enero 
+Creé la clase Player donde creo el cuerpo y hitbox de este
+
+-28 de enero 
+Creé una textura para el jugador y añadí texturas para el mapa
+
+-31 de enero
+Creé las animaciones del jugador cuando corre, salta y está quieto
+
+-2 de febrero
+creé la clase abstracta de Enemy, y la clase de Yokai que extiende de la anterior
+
+-6 de febrero
+Creé la clase WorldContactListener para gestionar las colisiones
+
+-10 de febrero
+Añadí la función hit para player y yokai
+
+-13 de febrero
+Creé un manager para cargar y obtener audios
+
+-19 de febrero
+Creé la función kill para matar al jugador
+
+-25 de abril
+Amplié el mapa del nivel 1
+
+-15 de mayo
+agregué que el jugador se volviera invulnerable durante unos segundos cuando sufre daño
+
+-16 de mayo
+la textura del jugador parpadea al recibir daño
+
+-17 de mayo
+ajusté la cámara para que siga al jugador en el eje de forma más suave
+
+-18 de mayo
+creé la pantalla de Fin de partida y creé un logo para el juego
+
+-19 de mayo
+creé la pantalla del menú principal con su HUD
+
+-20 de mayo
+creé la pantalla de ajustes los cuales se guardan mediante un objeto Preferences
+
+-21 de mayo
+creé mediante una IA (aitubo) diferentes imagenes y las pixelé para usar de fondo en las diferentes pantallas
+
+-22 de mayo
+creé la pantalla de estadísticas las cuales se cargan también a partir del preferences
+
+-23 de mayo
+arreglé varios problemas de colisón entre el jugador y los enemigos
+
+-24 de mayo
+añadí la opción de vibración que se usa cuando recibe daño el jugador
+
+-25 de mayo
+añadí un menú de pausa dentro de la PlayScreen
+
+-26 de mayo
+Creé la pantalla de ayuda donde explico las bases del juego
+
+-27 de mayo
+Creé el mapa del segundo nivel, el cual tiene diferente fondo y música
+
+-28 de mayo
+creé un menú de selección de niveles cuando le das al play
+
+-29 de mayo
+arreglé que el jugador pueda saltar en paredes o quedarse pegado al techo
+
+-30 de mayo
+creé la pantalla de los créditos
+
+-1 de mayo
+Creé una función que comprueba que el móvil está siendo agitado mediante el uso del acelerómetro
+
+-2 de mayo
+Creé una clase HeartItem que representa un item que solo se puede obtener al agitar el dispositivo
+
+-3 de mayo
+Creé la clase JumpItem que funciona igual que el anterior item, pero con un efecto diferente
+
+-4 de junio
+Creé la clase LanguageManager para que el juego sea multiidioma
+
+-5 de junio
+Limpié el código e hice la documentación javadoc

@@ -1,0 +1,75 @@
+aa.png
+size: 1920, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 640, 128
+  orig: 640, 128
+  offset: 0, 0
+  index: 1
+Attack
+  rotate: false
+  xy: 640, 0
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: 2
+Attack
+  rotate: false
+  xy: 1152, 0
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: 3
+Dead
+  rotate: false
+  xy: 0, 128
+  size: 768, 128
+  orig: 768, 128
+  offset: 0, 0
+  index: -1
+Flight
+  rotate: false
+  xy: 768, 128
+  size: 768, 128
+  orig: 768, 128
+  offset: 0, 0
+  index: -1
+Hurt
+  rotate: false
+  xy: 1536, 128
+  size: 384, 128
+  orig: 384, 128
+  offset: 0, 0
+  index: -1
+Idle
+  rotate: false
+  xy: 0, 256
+  size: 768, 128
+  orig: 768, 128
+  offset: 0, 0
+  index: -1
+Run
+  rotate: false
+  xy: 768, 256
+  size: 896, 128
+  orig: 896, 128
+  offset: 0, 0
+  index: -1
+Scream
+  rotate: false
+  xy: 0, 384
+  size: 896, 128
+  orig: 896, 128
+  offset: 0, 0
+  index: -1
+Walk
+  rotate: false
+  xy: 896, 384
+  size: 896, 128
+  orig: 896, 128
+  offset: 0, 0
+  index: -1
